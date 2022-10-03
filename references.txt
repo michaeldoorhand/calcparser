@@ -1,0 +1,8 @@
+References:
+
+Building a lexer in racket: https://matt.might.net/articles/lexers-in-racket/
+This was the most helpful / most used resource I relied on.
+
+
+Parser example / general info: https://www.youtube.com/watch?v=IEzUFNFU880 
+Channel has more videos that were also helpful.
